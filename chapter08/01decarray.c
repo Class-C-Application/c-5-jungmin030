@@ -17,10 +17,10 @@ int main(void)
 
 	int score[SIZE];
 
-	int score[0] = 78;
-	int score[1] = 97;
-	int score[2] = 85;
-	int score[4] = 91;
+	score[0] = 78;
+	score[1] = 97;
+	score[2] = 85;
+	score[4] = 91;
 
 	for(int i=0; i<SIZE; i++){
 		printf("%d ", score[i]);
