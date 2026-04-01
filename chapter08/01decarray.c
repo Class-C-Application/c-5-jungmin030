@@ -17,7 +17,7 @@ int main(void)
 
 	int score[SIZE];
 
-	int score[0] = 80;
+	int score[0] = 78;
 	int score[1] = 97;
 	int score[2] = 85;
 	int score[4] = 91;
